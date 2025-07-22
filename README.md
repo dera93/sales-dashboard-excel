@@ -3,7 +3,7 @@
 
 This project is a dynamic, interactive Sales Dashboard built in Microsoft Excel, focused on transforming raw sales data into clean, visual insights for business performance monitoring.
 
-![Dashboard Screenshot](dashboard-preview.png)
+![Dashboard Preview](PULSELINEDASHBOARD.jpg)
 
 🚀 Project Overview
 
